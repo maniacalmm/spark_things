@@ -1,6 +1,8 @@
-.classpath/*
+*.iml
+.metals/*
+.classpath
 target/*
 .idea/*
-.project/*
+.project
 .settings/*
 
